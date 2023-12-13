@@ -1,0 +1,51 @@
+Mango Juice,80.00,9/10,7
+Orange Juice,80.00,10/10,7
+Apple Juice,90.00,9/10,7
+Lemon Juice,70.00,8/10,7
+pineapple Juice,80.00,10/10,7
+Lassi    ,60.00,9/10,7
+Vanilla  ,60.00,9/10,8
+Strawberry,85.00,10/10,8
+Chocolate,85.00,9/10,8
+Chocolate Chips,85.00,10/10,8
+Kaju draks,85.00,8/10,8
+Banana Milkshake,120.00,10/10,6
+Vanilla Milkshake,130.00,9/10,6
+Mango Milkshake,120.00,10/10,6
+Chocolate Milkshake,120.00,9/10,6
+Banana-Nut MIlkshake,130.00,8/10,6
+Black Coffee,40.00,8/10,5
+Hot Coffee,40.00,9/10,5
+Cold Coffee,70.00,8/10,5
+Fruit Cold Coffee,140.00,8/10,5
+Fench toast,100.00,10/10,1
+Omelette,50.00,9/10,1
+Breakfast burrito,150.00,9/10,1
+Scrambled eggs,70.00,10/10,1
+Huevos rancheros,200.00,9/10,1
+Mutton polaw,260.00,9/10,2
+Beef Biriyani,190.00,8/10,2
+Chicken Biriyani,200.00,10/10,2
+Fride Rice,180.00,9/10,2
+chicken Masala,100.00,8/10,2
+Salad    ,50.00,9/10,2
+Maxical Fride Rice,200.00,9/10,2
+Special Biriyani,360.00,10/10,2
+Beef     ,150.00,8/10,2
+Mutton Polaw,250.00,7/10,4
+Hydrabadi Biriyani,250.00,8/10,4
+Beef Biriyani,260.00,9/10,4
+Chicken biriyani,160.00,10/10,4
+Family package,500.00,10/10,4
+Chicken,400,9/10,3
+Crispy Chicken Fry,140,10/10,3
+Chicken Chap+Porata,160,9/10,3
+Cheese Burger,180,10/10,3
+Chicken Pasta,220,8/10,3
+BBQ Nachos,200,10/10,3
+chicken Nachos,180,9/10,3
+Lemon mint,60.00,7/10,7
+
+
+
+Vanilla Special,63.50,9/10,8
