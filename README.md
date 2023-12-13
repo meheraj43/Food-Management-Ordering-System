@@ -42,6 +42,7 @@
               eptostdTime ()            :
                                   It Convert epoch time to strendread 
 
+**Screenshots:**
 ![image](https://github.com/meheraj43/Food-Management-Ordering-System/assets/140717499/9ba0e5a1-f2c5-48ee-9adc-a4fdc1066c0f)
 ![image](https://github.com/meheraj43/Food-Management-Ordering-System/assets/140717499/3810c430-da21-41c3-a2e5-498d6be04a43)
 ![image](https://github.com/meheraj43/Food-Management-Ordering-System/assets/140717499/62922b5a-54a6-4551-accd-05ef91b9ec75)
