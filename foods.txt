@@ -45,7 +45,4 @@ Chicken Pasta,220,8/10,3
 BBQ Nachos,200,10/10,3
 chicken Nachos,180,9/10,3
 Lemon mint,60.00,7/10,7
-
-
-
 Vanilla Special,63.50,9/10,8
